@@ -1,0 +1,30 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#nav{
+    background-color: gray;
+    height: 100px;
+   
+}
+.divUl{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    /*  remove dots from unorder list */
+    list-style-type: none;
+}
+.navButton{
+    width: 200px;
+    background-color: aqua;
+    color: black;
+    text-decoration:none;
+    font-size: 30px;
+    padding: 20px;
+    border-radius: 30px;
+
+}
+.test{
+    color: red;
+}

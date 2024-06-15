@@ -1,0 +1,13 @@
+div{
+    display: grid;
+}
+table{
+    border: 2px solid black;
+    text-align: center;
+    align-items: center;
+}
+.bord{
+    border: 2px solid black;
+    text-align: center;
+    align-items: center;
+}
